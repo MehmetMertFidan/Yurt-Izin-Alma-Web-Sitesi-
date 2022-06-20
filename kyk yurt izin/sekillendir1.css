@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    color: rgb(47, 118, 140);
+}
+.ekran{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    position: relative;
+}
+.kutu1{
+    height: 30vh;
+    width: 22%;
+    line-height: 200%;
+    position: absolute;
+    top: 33vh;
+    left: 20%;
+}
+.kutu2{
+    height: 30vh;
+    width: 22%;
+    line-height: 200%;
+    position: absolute;
+    top: 33vh;
+    left: 60%;
+}
+.giris{
+    height: 26vh;
+    border-radius: 20px;
+    border: 10px solid rgb(47, 118, 140);
+    background-color: white;
+}
+.kayit{
+    height: 26vh;
+    border-radius: 20px;
+    border: 10px solid rgb(47, 118, 140);
+    background-color: white;
+}
+.yazi1{
+    height: 4vh;
+    text-align: center;
+    font-size: 3vh;
+    margin-bottom: 2%;
+    font-weight: bolder;
+    color: rgb(47, 118, 140);
+}
+.yazi2{
+    height: 4vh;
+    text-align: center;
+    font-size: 3vh;
+    margin-bottom: 2%;
+    font-weight: bolder;
+    color: rgb(47, 118, 140);
+}
+.buton1{
+    text-align: center;
+    height: 100px;
+}
+.buton2{
+    text-align: center;
+}
+.uzanti{
+    top: 30vh;
+    position: absolute;
+    width: 100%;
+    margin-top: 30vh;
+    right: 70%;
+}
+a{
+    text-decoration: none;
+}
