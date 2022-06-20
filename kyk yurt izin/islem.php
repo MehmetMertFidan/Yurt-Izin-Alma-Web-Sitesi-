@@ -1,7 +1,7 @@
 <?php 
 session_start();
 if(!isset($_SESSION["ID"])){
-    header("Location: http://localhost/kyk%20urt%20izin/");
+    echo"<script>window.location.href='index.php'</script>";
 }
 ?>
 <!DOCTYPE html>
