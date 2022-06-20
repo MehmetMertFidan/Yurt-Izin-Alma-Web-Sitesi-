@@ -4,7 +4,7 @@
 
   Şimdi derleyicinizi açıp bir dosya oluturun ve içinde 11 tane sayfa oluşturun. Sayfaların isimlerinin benim paylaştığım kyk yurt izin dosyasındakilerle aynı olmasına dikkat edin. Sonra ilgili sayfalara benim paylaştığım kodları kopyalayıp yapıştırın. Yalnızca baglanti.php adlı sayfaya aşağıdaki kodu yapıştırın.
 
-#<?php
+<?php
 
 $server="localhost";
 
