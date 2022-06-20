@@ -5,13 +5,19 @@ Bu kodları kendi bilgisayarınızda çalıştırmak için önce XAMPP uygulamas
 Şimdi derleyicinizi açıp bir dosya oluturun ve içinde 11 tane sayfa oluşturun. Sayfaların isimlerinin benim paylaştığım kyk yurt izin dosyasındakilerle aynı olmasına dikkat edin. Sonra ilgili sayfalara benim paylaştığım kodları kopyalayıp yapıştırın. Yalnızca baglanti.php adlı sayfaya aşağıdaki kodu yapıştırın.
 
 #<?php
+
 $server="sql305.epizy.com";//localhost
+
 $user="epiz_31989499";//root
+
 $password="mWw9OT0RmB";//""
+
 $database="epiz_31989499_kyk";//kyk olarak değiştir
 
 $baglanti=mysqli_connect($server,$user,$password,$database);
+
 ?>
+
 asdaasd
 
 
