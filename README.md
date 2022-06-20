@@ -12,3 +12,10 @@ $database="epiz_31989499_kyk";//kyk olarak değiştir
 
 $baglanti=mysqli_connect($server,$user,$password,$database);
 ?>
+asdaasd
+
+
+asd
+ad
+a
+d
