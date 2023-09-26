@@ -26,7 +26,7 @@ $baglanti=mysqli_connect($server,$user,$password,$database);
   
 CREATE DATABASE kyk;
 
-Sonra soldaki menüden kyk adlı database'e tıklatın ve SQL kısmına bu kez paylaşmıl oldupum "epiz_31989499_kyk.sql" sayfasını yapıştırıp çalıştırın. Ve database'iniz hazır.
+Sonra soldaki menüden kyk adlı database'e tıklatın ve SQL kısmına bu kez paylaşmış olduğum "epiz_31989499_kyk.sql" sayfasını yapıştırıp çalıştırın. Ve database'iniz hazır.
 
 Şimdi arama moturunuzun üstteki arama çubuğununa "localhost" yazın ve enter'a basın. Ve işte siteniz hazır. Klasöre tıklayarak siteye erişebilirsiniz.
 
